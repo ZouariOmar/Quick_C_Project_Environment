@@ -14,6 +14,7 @@ This template provides a basic structure for starting a quick C project. It incl
 │   └── inc.h
 ├── LICENSE
 ├── out
+│   └── out
 ├── Quick_C_Project_Environment.code-workspace
 ├── README.md
 ├── run.sh
