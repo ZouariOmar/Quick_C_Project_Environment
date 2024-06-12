@@ -9,42 +9,19 @@ This template provides a basic structure for starting a quick C project. It incl
 ## Project Structure
 
 ```plaintext
-.Quick C Project Environment
-├── bin
-│   ├── debug
-│   │   └── NONE
-│   ├── out
-│   │   ├── app
-│   │   └── NONE
-│   ├── release
-│   │   └── NONE
-│   └── test
-│       └── NONE
-├── doc
-│   ├── NONE
-│   └── pdf
-│       └── NONE.pdf
-├── download
-│   └── NONE
+.Quick_C_Project_Environment
+├── inc
+│   └── inc.h
 ├── LICENSE
-├── pkg
-│   ├── C-Cpp_pkg.cmd
-│   └── C-Cpp_pkg.sh
-├── project
-│   ├── doc
-│   │   └── NONE
-│   ├── inc
-│   │   └── inc.h
-│   ├── res
-│   │   └── NONE
-│   └── src
-│       ├── lib.c
-│       └── main.c
-├── Quick C Project Environment.code-workspace
+├── out
+├── Quick_C_Project_Environment.code-workspace
 ├── README.md
-└── run.sh
+├── run.sh
+└── src
+    ├── lib.c
+    └── main.c
 
-15 directories, 19 files
+4 directories, 7 files
 ```
 
 ## How to Use
