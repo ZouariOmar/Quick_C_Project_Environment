@@ -1,25 +1,21 @@
-/***************************************************
- * @file      inc.h
- * @author    @ZouariOmar (zouariomar20@gmail.com)
- * @brief     IDE__VSC
- * @version   0.1
- * @date      2024-06-06
- * @copyright Copyright (c) 2024
- ***************************************************/
+//! Lance the Doxygen file comment Her (in VSC - `/** */`)
 
+//? Pre-Processor prototype declaration part
 #ifndef __INC_H__
 #define __INC_H__
 
-//? ----------------------------- INCLUDE PROTOTYPE DECLARATION PART -----------------------------
-//* include std libs
+//? Include prototype declaration part
+
+// Include std libs (c)
 #include <stdio.h>
 #include <stdlib.h>
-/*
-#include <nameOfLib.c>   || #include "nameOfLib.c"
-#include <nameOfLib.h>   || #include "nameOfLib.h"
-*/
 
-//? ------------------------------ COLORS PROTOTYPE DECLARATION PART ------------------------------
+/*
+ * Include std libs (c)
+ * Include custom inc file (h)
+ */
+
+//? CLI colors prototype declaration part
 /*
  * TEXT COLORS
  ** define COLOR "ANSI CODE"...
@@ -27,7 +23,7 @@
  ** define bgCOLOR "ANSI CODE"...
  */
 
-//? -------------------------------  MSG PROTOTYPE DECLARATION PART -------------------------------
+//? Msg prototype declaration part
 /*
  * ERROR_MSG
  ** define errorMsgXX...
@@ -35,12 +31,12 @@
  ** define successMsgXX...
  */
 
-//? ------------------------------ STRUCT PROTOTYPE DECLARATION PART ------------------------------
+//? Structure prototype declaration part
 /*
  * struct...
  */
 
-//? ----------------------------- FUNCTIONS PROTOTYPE DECLARATION PART -----------------------------
+//? Function prototype declaration part
 /*
  * func...
  */
